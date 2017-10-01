@@ -16,7 +16,7 @@ include $(DEVKITARM)/ds_rules
 #---------------------------------------------------------------------------------
 BUILD		:=	build
 SOURCES		:=	source mbedtls term256
-INCLUDES	:=	include
+INCLUDES	:=	term256/term256
 DATA		:=
 
 

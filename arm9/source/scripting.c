@@ -5,8 +5,8 @@
 #include <string.h>
 #include <dirent.h>
 #include <sys/stat.h>
+#include <term256ext.h>
 #include "heap.h"
-#include "../term256/term256ext.h"
 #include "utils.h"
 #include "scripting.h"
 
