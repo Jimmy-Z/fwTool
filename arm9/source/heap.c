@@ -1,5 +1,5 @@
 #include <malloc.h>
-#include "../term256/term256ext.h"
+#include <term256ext.h>
 #include "heap.h"
 
 #define HEAP_LEN 0x20

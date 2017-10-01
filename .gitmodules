@@ -1,0 +1,3 @@
+[submodule "arm9/term256"]
+	path = arm9/term256
+	url = https://github.com/Jimmy-Z/term256

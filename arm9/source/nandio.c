@@ -2,7 +2,7 @@
 #include <nds.h>
 #include <nds/disc_io.h>
 #include <malloc.h>
-#include "../term256/term256ext.h"
+#include <term256ext.h>
 #include "crypto.h"
 
 #define SECTOR_SIZE 512
